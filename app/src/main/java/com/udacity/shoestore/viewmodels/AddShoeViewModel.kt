@@ -33,7 +33,7 @@ class AddShoeViewModel : ViewModel() {
         _companyIsCorrect.value = true
         _sizeIsCorrect.value = true
     }
-
+//
     fun saveData(
         shoe: Shoe
     ) {
